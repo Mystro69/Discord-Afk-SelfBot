@@ -1,0 +1,18 @@
+{
+  "name": "selfbot",
+  "version": "0.0.1",
+  "description": "https://github.com/Mystro69",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "discord.js-selfbot": "^12.0.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord-js",
+    "selfbot"
+  ]
+}
